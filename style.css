@@ -1,5 +1,9 @@
 body {
-  background-color: gray;
+  background-color: rgb(37, 37, 37);
+}
+
+h1 {
+  color: white;
 }
 
 .topcentre {
