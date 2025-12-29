@@ -9,7 +9,8 @@ body {
 
 h1 { 
   color: white;
- font-family: system-ui, -apple-system; 
+  font-family: system-ui, -apple-system;
+  height: 50px;
 }
 
 .topnavigation {
