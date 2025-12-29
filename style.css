@@ -23,6 +23,8 @@ h1 {
   border-color: mediumspringgreen;
   border-style: solid;
   border-width: 2px;
+  height: fit-content;
+  width: 150px;
 }
 
 .titlenavigation {
