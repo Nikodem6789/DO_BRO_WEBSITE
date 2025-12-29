@@ -24,3 +24,9 @@ h1 {
   border-style: solid;
   border-width: 2px;
 }
+
+.titlenavigation {
+  margin-left: 10px;
+  margin-top: 10px;
+  color: black
+}
