@@ -32,8 +32,10 @@ h1 {
   margin: 0;
   color: black;
   line-height: 50px;
-  display: flex;
-  align-items: center;
-  margin-top: 50px;
 }
 
+h1 {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
