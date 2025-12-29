@@ -3,11 +3,8 @@ body {
 }
 
 .topcentre {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  flex-direction: column;
-  min-height: 100vh;
-  margin: 0;
   position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
 }
